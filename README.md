@@ -1,2 +1,2 @@
-# project-name
-A description
+Orion Configuration
+Java configuration library
