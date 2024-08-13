@@ -1,4 +1,4 @@
-package io.github.orionlibs.orion_configuration.data_access;
+package io.github.orionlibs.orion_configuration;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
